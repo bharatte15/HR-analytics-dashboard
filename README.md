@@ -1,17 +1,11 @@
 Overview
-
 This project presents an end-to-end HR analytics solution designed to analyze employee attrition patterns and uncover key factors influencing workforce retention. The dashboard enables data-driven decision-making by providing actionable insights into employee behavior, compensation impact, and departmental trends.
-
 Business Objective
-
 Organizations often struggle to understand:
-
 Why employees leave
 Which departments face high attrition
 How salary and experience influence retention
-
 This project addresses these challenges through interactive analytics and insight generation.
-
 Tools & Technologies
 Microsoft Power BI (Dashboard & Visualization)
 Python (Data Cleaning & Feature Engineering)
@@ -53,3 +47,5 @@ This project demonstrates the ability to:
 Translate raw data into meaningful insights
 Identify business problems and provide solutions
 Build interactive dashboards used in real-world scenarios
+
+
